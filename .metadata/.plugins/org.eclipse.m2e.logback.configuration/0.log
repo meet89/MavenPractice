@@ -1,0 +1,43 @@
+2020-12-19 01:05:24,165 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-19 01:06:15,898 [Worker-17: Creating project "MavenFirst"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.practice:MavenFirst:0.0.1-SNAPSHOT @ C:\MVNPractice\MavenFirst\pom.xml.
+2020-12-19 01:06:16,148 [Worker-17: Creating project "MavenFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenFirst/src/main/java
+2020-12-19 01:06:16,150 [Worker-17: Creating project "MavenFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenFirst/src/main/resources
+2020-12-19 01:06:16,151 [Worker-17: Creating project "MavenFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenFirst/src/test/java
+2020-12-19 01:06:16,151 [Worker-17: Creating project "MavenFirst"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MavenFirst/src/test/resources
+2020-12-19 01:06:17,149 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:06:17,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:06:17,165 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:06:17,172 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:17,632 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:17,652 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:17,654 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:17,668 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:18,682 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:18,690 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:18,692 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:18,699 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:37,609 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:37,618 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:13:37,619 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:13:37,626 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:21:38,335 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-12-19 01:21:58,314 [Worker-21: Launching MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MVNPractice\MavenFirst
+2020-12-19 01:21:58,315 [Worker-21: Launching MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-12-19 01:23:06,558 [Worker-25: Launching Executing clean in C__MVNPractice_MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MVNPractice\MavenFirst
+2020-12-19 01:23:06,558 [Worker-25: Launching Executing clean in C__MVNPractice_MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-12-19 01:23:08,167 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:23:08,174 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:23:08,175 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:23:08,180 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:23:17,062 [Worker-27: Launching Executing install in C__MVNPractice_MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MVNPractice\MavenFirst
+2020-12-19 01:23:17,063 [Worker-27: Launching Executing install in C__MVNPractice_MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-12-19 01:23:19,427 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:23:19,435 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:23:19,436 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:23:19,443 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-19 01:25:41,781 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-12-19 01:25:41,896 [Worker-25: Launching MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\MVNPractice\MavenFirst
+2020-12-19 01:25:41,896 [Worker-25: Launching MavenFirst] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-12-19 01:33:10,717 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.practice:MavenFirst:0.0.1-SNAPSHOT @ C:\MVNPractice\MavenFirst\pom.xml.
+2020-12-19 01:33:10,980 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-19 01:33:11,001 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
